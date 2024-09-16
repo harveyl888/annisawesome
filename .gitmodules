@@ -1,0 +1,3 @@
+[submodule "themes/simple_portfolio"]
+	path = themes/simple_portfolio
+	url = https://github.com/harveyl888/simple_portfolio.git
