@@ -1,0 +1,16 @@
+logo = ""
+firstname = "Ann"
+attributes = ["Creative Director", "Mother", "Visionary", "Funny Person"]
+
+## footer
+footer_message = "Reach out if you want to work with me"  ## include a message in the footer
+
+## social
+footer_socials = true  ## include social icons in footer
+
+[social]
+  twitter = "crackyy"
+  instagram = ""
+  linkedin = "ann-lieberman-7776315"
+  workingnotworking = "85-ann"
+  email = "theblur13@yahoo.com"

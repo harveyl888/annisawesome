@@ -1,0 +1,4 @@
+baseURL = ''
+languageCode = 'en-us'
+title = 'Ann Is Awesome'
+theme = 'simple_portfolio'
