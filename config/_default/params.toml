@@ -1,6 +1,7 @@
 logo = ""
 firstname = "Ann"
-attributes = ["Creative Director", "Mother", "Visionary", "Funny Person"]
+attributes = ["Writer", "Creative Director", "Mother", "Minivan Driver", "Blogger", "Thinker",
+"Concepter", "Presenter", "Organizer of Schedules", "Chaos Mitigator", "Wordler"]
 
 ## footer
 footer_message = "Reach out if you want to work with me"  ## include a message in the footer
@@ -13,4 +14,4 @@ footer_socials = true  ## include social icons in footer
   instagram = ""
   linkedin = "ann-lieberman-7776315"
   workingnotworking = "85-ann"
-  email = "theblur13@yahoo.com"
+  email = "annlieberman@gmail.com"
