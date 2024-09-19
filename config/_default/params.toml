@@ -15,3 +15,7 @@ footer_socials = true  ## include social icons in footer
   linkedin = "ann-lieberman-7776315"
   workingnotworking = "85-ann"
   email = "annlieberman@gmail.com"
+
+## page titles
+[headings]
+  portfolio = "Work"
