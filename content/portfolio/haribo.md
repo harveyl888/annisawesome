@@ -1,14 +1,12 @@
 ---
 title: "Haribo"
 image: "images/thumbnails/th_haribo.jpg"
-client: "?"
-agency: "?"
+client: "Haribo"
+agency: "Mad Dogs & Englishmen"
 weight: 6
 role: "Writer"
 categories: ["Print"]
 ---
-
-### Burrito Love
 
 ### Haribo Gold Bears
 

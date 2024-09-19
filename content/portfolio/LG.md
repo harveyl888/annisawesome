@@ -3,7 +3,7 @@ title: "LG"
 image: "images/thumbnails/th_lg.jpg"
 client: "LG"
 agency: "Opus, Portland"
-weight: 7
+weight: 3
 role: "Writer/ACD"
 categories: ["Digital", "Social", "Mobile"]
 ---
