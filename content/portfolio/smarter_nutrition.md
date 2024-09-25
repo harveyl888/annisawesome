@@ -1,6 +1,6 @@
 ---
 title: "Smarter Nutrition"
-image: "images/thumbnails/th_smarter_nutrition.png"
+image: "images/thumbnails/th_smarter_nutrition.jpg"
 client: "Smarter Nutrition"
 agency: "Ann is Awesome / MW Creative Ranch"
 weight: 10
@@ -13,10 +13,8 @@ The following executions are people talking about life after 40. The good, the b
 
 {{<img-responsive src="/images/portfolio/smarter_nutrition/SN1.png">}}
 
-{{<img-responsive src="/images/portfolio/smarter_nutrition/SN2.png">}}
-
-{{<img-responsive src="/images/portfolio/smarter_nutrition/SN3.png">}}
+{{<img-responsive src="/images/portfolio/smarter_nutrition/SN6.png">}}
 
 {{<img-responsive src="/images/portfolio/smarter_nutrition/SN4.png">}}
 
-{{<img-responsive src="/images/portfolio/smarter_nutrition/SN5.png">}}
+{{<img-responsive src="/images/portfolio/smarter_nutrition/SN7.png">}}
