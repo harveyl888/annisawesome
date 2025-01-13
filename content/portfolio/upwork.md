@@ -4,7 +4,7 @@ image: "images/thumbnails/th_upwork.jpg"
 client: "Upwork"
 agency: "Workshop (Upwork's internal creative agency)"
 weight: 14
-role: "Creative Director / Writer"
+role: "Creative Director, Writer"
 categories: ["Branding", "Film/Video Content", "Organic Social"]
 ---
 

@@ -4,7 +4,7 @@ image: "images/thumbnails/th_virgin_mobile.jpg"
 client: "Virgin Mobile"
 agency: "Mother, New York"
 weight: 13
-role: "writer"
+role: "Writer"
 categories: ["TV", "Print", "Digital"]
 ---
 

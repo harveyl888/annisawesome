@@ -2,9 +2,9 @@
 title: "Progressive"
 image: "images/thumbnails/th_progressive.jpg"
 client: "Progressive"
-agency: "Agency XYZ"
+agency: "Arnold, Boston"
 weight: 2
-role: "creative director"
+role: "ACD, Writer"
 categories: ["TV"]
 ---
 
