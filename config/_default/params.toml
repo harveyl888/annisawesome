@@ -1,8 +1,8 @@
 logo = ""
 firstname = "Ann"
-attributes = ["Writer", "Creative Director", "Mother", "Minivan Driver", "Blogger", "Thinker",
-"Concepter", "Presenter", "Organizer of Schedules", "Chaos Mitigator", "Wordler", "Bostonian",
-"List Maker", "Coffee Aficionado", "Doggie Mama"]
+attributes = ["Copywriter", "Creative Director", "Conceptual Thinker", 
+"Suburban Mama", "Kid Uber Driver", "Organizer of Schedules", "Chaos Mitigator", 
+"Wordler", "List Maker", "Personal Chef"]
 
 ## footer
 footer_message = "Reach out if you want to work with me"  ## include a message in the footer
