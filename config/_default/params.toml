@@ -3,6 +3,12 @@ logo = ""
 title = "Ann Lieberman"
 subtitle = "Creative Director / Copywriter"
 
+## footer
+footer_message = "Reach out if you want to work with me"  ## include a message in the footer
+
+## social
+footer_socials = true  ## include social icons in footer
+
 [typewriter]
   firstname = "Ann"
   attributes = ["Copywriter", "Creative Director", "Conceptual Thinker", 
@@ -12,13 +18,6 @@ subtitle = "Creative Director / Copywriter"
   pause = 500
   colorFixed= "#000000"
   colorType = "#009900"
-
-
-## footer
-footer_message = "Reach out if you want to work with me"  ## include a message in the footer
-
-## social
-footer_socials = true  ## include social icons in footer
 
 [social]
   twitter = "crackyy"
