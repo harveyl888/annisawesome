@@ -1,8 +1,18 @@
 logo = ""
-firstname = "Ann"
-attributes = ["Copywriter", "Creative Director", "Conceptual Thinker", 
+
+title = "Ann Lieberman"
+subtitle = "Creative Director / Copywriter"
+
+[typewriter]
+  firstname = "Ann"
+  attributes = ["Copywriter", "Creative Director", "Conceptual Thinker", 
 "Suburban Mama", "Kid Uber Driver", "Organizer of Schedules", "Chaos Mitigator", 
 "Wordler", "List Maker", "Personal Chef"]
+  delay = 100
+  pause = 500
+  colorFixed= "#000000"
+  colorType = "#009900"
+
 
 ## footer
 footer_message = "Reach out if you want to work with me"  ## include a message in the footer
