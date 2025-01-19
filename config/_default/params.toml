@@ -3,6 +3,9 @@ logo = ""
 title = "Ann Lieberman"
 subtitle = "Creative Director / Copywriter"
 
+## resume
+resume_file = "/resume/ann_resume.pdf"
+
 ## footer
 footer_message = "Reach out if you want to work with me"  ## include a message in the footer
 
