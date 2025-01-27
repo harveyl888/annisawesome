@@ -6,6 +6,7 @@ agency: "Workshop (Upwork's internal creative agency)"
 weight: 14
 role: "Creative Director, Writer"
 categories: ["Branding", "Film/Video Content", "Organic Social"]
+draft: true
 ---
 
 {{< portfolio-segment-header title="Upwork Kick-Off 2023"  categories="Branding,Film/Video Content" >}}
