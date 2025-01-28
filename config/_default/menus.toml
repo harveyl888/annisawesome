@@ -4,11 +4,21 @@ name = "Home"
 weight = 1
 
 [[main]]
-url = "about"
-name = "About"
+url = "portfolio"
+name = "Work"
 weight = 2
 
 [[main]]
-url = "portfolio"
-name = "Work"
+url = "about"
+name = "About"
 weight = 3
+
+#[[main]]
+#url = "contact"
+#name = "Contact"
+#weight = 4
+
+#[[main]]
+#url = "stuff"
+#name = "Blogs and Stuff"
+#weight = 5
