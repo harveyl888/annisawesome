@@ -1,14 +1,14 @@
 ---
-title: "Squid Game"
+title: "Squid Game, The Experience NYC"
 image: "images/thumbnails/th_squidgame.jpg"
 client: "Netflix"
-agency: "Ann Is Awesome Creative"
+agency: "Netflix In House"
 weight: 15
 role: "Creative Director, Writer"
 categories: ["Outdoor", "Launch"]
 ---
 
-The Squid Game Live Experience had a successful run in Los Angeles and was headed to NYC. Working directly with a Design Director and a team of designers we were tasked with creating a consistent visual line from LA’s experience to NYC that was engaging, clearly communicated the experience and was true to the brand.
+The Squid Game Live Experience had a successful run in Los Angeles and was headed to NYC. Working directly with a Design Director we were tasked with creating a consistent visual line from LA’s experience to NYC that was engaging, immersive, on-brand, and effectively captured the excitement of the experience.
 
 {{< carousel img_src="/images/portfolio/squidgame/squid-01.png,/images/portfolio/squidgame/squid-02.png,/images/portfolio/squidgame/squid-03.png,/images/portfolio/squidgame/squid-04.png" dark="false" >}}
 

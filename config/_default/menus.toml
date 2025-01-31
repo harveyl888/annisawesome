@@ -18,7 +18,7 @@ weight = 3
 #name = "Contact"
 #weight = 4
 
-#[[main]]
-#url = "stuff"
-#name = "Blogs and Stuff"
-#weight = 5
+[[main]]
+url = "stuff"
+name = "Blogs and Stuff"
+weight = 5
