@@ -3,7 +3,7 @@ title: "Upwork Kickoff 2023"
 image: "images/thumbnails/th_upwork_kickoff.png"
 client: "Upwork"
 agency: "Workshop (Upwork's internal creative agency)"
-weight: 16
+weight: 17
 role: "Creative Director, Writer"
 categories: ["Branding", "Film/Video Content"]
 ---

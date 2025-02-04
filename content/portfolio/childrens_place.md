@@ -3,7 +3,7 @@ title: "The Children's Place"
 image: "images/thumbnails/th_tcp.jpg"
 client: "The Children's Place"
 agency: "Mother, New York"
-weight: 12
+weight: 5
 role: "Writer"
 categories: ["TV", "Print"]
 ---

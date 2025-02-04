@@ -3,7 +3,7 @@ title: "Chipotle"
 image: "images/thumbnails/th_chipotle.jpg"
 client: "Chipotle"
 agency: "Mother, New York"
-weight: 5
+weight: 8
 role: "Writer"
 categories: ["Internal", "Print"]
 ---

@@ -3,7 +3,7 @@ title: "Haribo"
 image: "images/thumbnails/th_haribo.jpg"
 client: "Haribo"
 agency: "Mad Dogs & Englishmen"
-weight: 6
+weight: 10
 role: "Writer"
 categories: ["Print"]
 ---

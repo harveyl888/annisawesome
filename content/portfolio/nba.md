@@ -3,7 +3,7 @@ title: "NBA Finals"
 image: "images/thumbnails/th_nba.jpg"
 client: "NBA"
 agency: "Mother, New York"
-weight: 9
+weight: 7
 role: "Writer"
 categories: ["TV"]
 ---

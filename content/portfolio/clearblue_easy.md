@@ -3,7 +3,7 @@ title: "Clearblue Easy"
 image: "images/thumbnails/th_clearblue.jpg"
 client: "Clearblue"
 agency: "Mother, New York"
-weight: 4
+weight: 14
 role: "Writer"
 categories: ["print"]
 ---

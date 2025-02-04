@@ -3,7 +3,7 @@ title: "Motrin"
 image: "images/thumbnails/th_motrin.jpg"
 client: "Johnson & Johnson"
 agency: "Taxi, New York"
-weight: 8
+weight: 9
 role: "ACD, Writer"
 categories: ["Print"]
 ---

@@ -3,7 +3,7 @@ title: "Starbucks"
 image: "images/thumbnails/th_starbucks.jpg"
 client: "Starbucks"
 agency: "BBDO, New York"
-weight: 11
+weight: 13
 role: "Writer"
 categories: ["Print"]
 ---

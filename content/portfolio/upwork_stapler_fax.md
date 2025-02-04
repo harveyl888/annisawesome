@@ -3,7 +3,7 @@ title: "Upwork Stapler and Fax"
 image: "images/thumbnails/th_upwork_stapler.png"
 client: "Upwork"
 agency: "Workshop (Upwork's internal creative agency)"
-weight: 17
+weight: 16
 role: "Creative Director, Writer"
 categories: ["Organic Social"]
 ---

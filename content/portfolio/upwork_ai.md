@@ -3,7 +3,7 @@ title: "Upwork Gen AI"
 image: "images/thumbnails/th_upwork_genAI.png"
 client: "Upwork"
 agency: "Workshop (Upwork's internal creative agency)"
-weight: 19
+weight: 4
 role: "Creative Director, Writer"
 categories: ["Organic Social"]
 ---

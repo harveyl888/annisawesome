@@ -3,7 +3,7 @@ title: "Upwork YouTube Content Series"
 image: "images/thumbnails/th_upwork_youtube_content.png"
 client: "Upwork"
 agency: "Workshop (Upwork's internal creative agency)"
-weight: 18
+weight: 19
 role: "Creative Director, Writer"
 categories: ["Organic Social"]
 ---

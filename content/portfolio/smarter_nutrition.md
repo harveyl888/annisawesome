@@ -3,7 +3,7 @@ title: "Smarter Nutrition"
 image: "images/thumbnails/th_smarter_nutrition.jpg"
 client: "Smarter Nutrition"
 agency: "Ann is Awesome / MW Creative Ranch"
-weight: 10
+weight: 12
 role: "Creative Director, Writer, Strategist"
 categories: ["Digital", "Social", "Mobile"]
 ---

@@ -3,7 +3,7 @@ title: "Squid Game, The Experience NYC"
 image: "images/thumbnails/th_squidgame.jpg"
 client: "Netflix"
 agency: "Netflix In House"
-weight: 15
+weight: 2
 role: "Creative Director, Writer"
 categories: ["Outdoor", "Launch"]
 ---

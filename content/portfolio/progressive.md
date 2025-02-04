@@ -3,7 +3,7 @@ title: "Progressive"
 image: "images/thumbnails/th_progressive.jpg"
 client: "Progressive"
 agency: "Arnold, Boston"
-weight: 2
+weight: 6
 role: "ACD, Writer"
 categories: ["TV"]
 ---

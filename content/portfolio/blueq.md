@@ -3,7 +3,7 @@ title: "Blue Q"
 image: "images/thumbnails/th_blueq.jpg"
 client: "Blue Q"
 agency: "Mother, New York"
-weight: 7
+weight: 11
 role: "Writer"
 categories: ["Digital"]
 ---
